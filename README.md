@@ -1,8 +1,8 @@
 # Hello, I'm Janny.
 
 <div style="display: flex;">
-  <img src="https://raw.githubusercontent.com/lexmin0412/github-stats-transparent/output/generated/overview.svg" alt="lexmin0412's github stats"/>
-  <img src="https://raw.githubusercontent.com/lexmin0412/github-stats-transparent/output/generated/languages.svg" alt="Top Langs"/>
+  <img src="https://raw.githubusercontent.com/JannyZ925/github-stats-transparent/output/generated/overview.svg" alt="JannyZ925's github stats"/>
+  <img src="https://raw.githubusercontent.com/JannyZ925/github-stats-transparent/output/generated/languages.svg" alt="Top Langs"/>
 </div>
 
 ### languages and tools
@@ -24,7 +24,7 @@
   
   <div>
     <h3>Github Streaks </h3>
-    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lexmin0412&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lexmin0412" style="height: 200px" /></p >
+    <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JannyZ925&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="lexmin0412" style="height: 200px" /></p >
   </div>
 
 </div>
